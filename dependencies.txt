@@ -1,0 +1,8 @@
+pandas==2.2.3
+numpy==1.26.4
+joblib==1.4.2
+scikit-learn==1.6.1
+mordred==1.2.0
+rdkit==2024.9.5
+tensorflow==2.18.0
+keras==3.8.0
