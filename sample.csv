@@ -1,0 +1,6 @@
+SMILES
+COc1cc(-c2c[nH]nc2C)cnc1NC(=O)c1c(C)ccc[n+]1[O-]
+Cc1ccc[n+]([O-])c1C(=O)Nc1cnc(-c2cn[nH]c2)cn1
+Cc1ccc[n+]([O-])c1C(=O)Nc1ncc(-c2cn[nH]c2)nn1
+Cc1ccc[n+]([O-])c1C(=O)Nc1cc(-c2cn[nH]c2C)cnc1C
+CCn1cc(-c2cncc(CNC(=O)c3c(C)ccc[n+]3[O-])c2)cn1
