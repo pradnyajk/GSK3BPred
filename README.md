@@ -44,8 +44,10 @@ Replace sample_data.csv with your input file
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/PGlab-NIPER/GSK3BPred.git
-cd GSK3BPred
+cd GSK3BPred && git lfs pull
 ```
+> **_NOTE:_**  If git-lfs is not installed on your system, install it first and initialize it with: `git lfs install`
+
 ### 2. Build the Docker Image
 ```bash
 docker build -t gsk3bpred .
