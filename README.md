@@ -6,6 +6,7 @@
 ## Repository Contents
 
 The files contained in this repository are as follows:
+- `training_scripts` : Folder contains ML and DL models training scripts 
 - `Dockerfile` : Docker environment specification 
 - `prediction_script_gsk3bpred.py` : Python script that loads pre-trained models and performs predictions
 - `mordred_scaler.pkl`: Normalization model
