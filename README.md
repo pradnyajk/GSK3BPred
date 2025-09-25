@@ -80,16 +80,7 @@ The Docker container uses the following Python configuration:
 - keras (3.8.0)
 
 ## Citation
-If you use  **GSK3BPred** in your publication, consider citing the [paper](https://pubmed.ncbi.nlm.nih.gov/.../):
+If you use  **GSK3BPred** in your publication, consider citing the [paper](https://link.springer.com/article/10.1007/s11030-025-11320-5):
 ```
-@ARTICLE{,
-AUTHOR={ Tanmaykumar Varma, Pradnya Kamble, Rajkumar Rand Prabha Garg},   
-TITLE={Rational Design and Discovery of Novel ATP-Competitive GSK3β Inhibitors},      
-JOURNAL={..,},      
-VOLUME={},           
-YEAR={2025},     
-URL={https://pubmed.ncbi.nlm.nih.gov/...},       
-DOI={...},      	
-ISSN={}
-}
+Varma, T., Kamble, P., Rajkumar, R. et al. Computational discovery of ATP-competitive GSK3β inhibitors using database-driven virtual screening and deep learning. Mol Divers (2025). https://doi.org/10.1007/s11030-025-11320-5
 ```
